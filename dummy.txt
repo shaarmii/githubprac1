@@ -1,0 +1,3 @@
+hello iam dummy file .
+  I have been created in Github repository "githubprac1" and been pulled to normal folder "gitpractice".
+  This is done by command "git pull"
